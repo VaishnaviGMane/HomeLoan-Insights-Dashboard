@@ -1,8 +1,6 @@
 # Home-Loan-Analysis
 
-
 <img width="802" height="717" alt="image" src="https://github.com/user-attachments/assets/4b06c25f-5d4e-47a7-9463-17d7eedafeb5" />
-
 
 **Project Overview:**
 
@@ -14,10 +12,15 @@ The dashboard helps management track loan performance, identify patterns, and ma
 **Dataset Description:**
 
 The dataset contains information related to loan applications, customers, branches, and loan products.
+
 Customers: Contains customer demographic data (Gender, Age, Occupation, Branch Name).
+
 Loans: Stores information on total loan applied, sanctioned, disbursed, and recovered amounts.
+
 Products: Lists different loan products such as Top-up, Group, and Individual Loans.
+
 Branches: Includes branch names along with location details (Latitude and Longitude).
+
 Channels: Shows how loans were applied — through Online, Direct Sales, Walk-In, or Tie-ups.
 
 
