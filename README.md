@@ -5,12 +5,14 @@
 
 
 **Project Overview:**
+
 The Home Loan Analysis Dashboard is developed to analyze and visualize the overall loan process of a financial institution.
 It provides deep insights into customer demographics, loan applications, sanctioning, disbursement, and recovery trends.
 The dashboard helps management track loan performance, identify patterns, and make informed data-driven decisions to improve efficiency and customer satisfaction.
 
 
 **Dataset Description:**
+
 The dataset contains information related to loan applications, customers, branches, and loan products.
 Customers: Contains customer demographic data (Gender, Age, Occupation, Branch Name).
 Loans: Stores information on total loan applied, sanctioned, disbursed, and recovered amounts.
@@ -20,12 +22,14 @@ Channels: Shows how loans were applied — through Online, Direct Sales, Walk-In
 
 
 **Business Objectives:**
+
 •	Track total loans applied, sanctioned, disbursed, and recovered over time.
 •	Compare performance across different branches, loan types, and channels.
 •	Understand customer segmentation based on age, gender, and occupation.
 
 
 **Visual and analysis:**
+
 Total customers
 Total loan applied
 Total sanction amount
@@ -34,7 +38,8 @@ Total Recovered Amount
 
 
 
-**Tools and Technologies**
+**Tools and Technologies:**
+
 •	Microsoft Power BI for data visualization and report building
 •	Power Query for data transformation and cleaning
 •	DAX Functions: SUM, COUNT, AVERAGE, IF
@@ -42,6 +47,7 @@ Total Recovered Amount
 
 
 **Insights:**
+
 •	Majority of loans are applied through Direct Sales and Tie-Up channels.
 •	Most applications come from customers aged 26–32, primarily in the Salaried occupation group.
 •	Bengaluru Branch records the highest number of loan applications and customers.
@@ -50,7 +56,7 @@ Total Recovered Amount
 
 
 
-**Future Enhancement**
+**Future Enhancement:**
 •	Add a forecasting visual to predict upcoming loan demands.
 •	Include a customer income range field for deeper demographic insights.
 •	Integrate with live databases for real-time loan tracking.
